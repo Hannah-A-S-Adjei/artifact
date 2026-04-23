@@ -1,0 +1,133 @@
+anon_user_id,model,true_rank,mrr,hit_at_1,hit_at_3,hit_at_5,hit_at_10,hit_at_20
+U000,List (RockYou freq),2,0.5,0,1,1,1,1
+U001,List (RockYou freq),3,0.3333333333333333,0,1,1,1,1
+U002,List (RockYou freq),4,0.25,0,0,1,1,1
+U003,List (RockYou freq),12,0.0833333333333333,0,0,0,0,1
+U004,List (RockYou freq),9,0.1111111111111111,0,0,0,1,1
+U005,List (RockYou freq),17,0.0588235294117647,0,0,0,0,1
+U006,List (RockYou freq),16,0.0625,0,0,0,0,1
+U007,List (RockYou freq),20,0.05,0,0,0,0,1
+U008,List (RockYou freq),9,0.1111111111111111,0,0,0,1,1
+U009,List (RockYou freq),7,0.1428571428571428,0,0,0,1,1
+U010,List (RockYou freq),19,0.0526315789473684,0,0,0,0,1
+U011,List (RockYou freq),20,0.05,0,0,0,0,1
+U012,List (RockYou freq),1,1.0,1,1,1,1,1
+U013,List (RockYou freq),4,0.25,0,0,1,1,1
+U014,List (RockYou freq),17,0.0588235294117647,0,0,0,0,1
+U015,List (RockYou freq),6,0.1666666666666666,0,0,0,1,1
+U016,List (RockYou freq),6,0.1666666666666666,0,0,0,1,1
+U017,List (RockYou freq),14,0.0714285714285714,0,0,0,0,1
+U018,List (RockYou freq),16,0.0625,0,0,0,0,1
+U019,List (RockYou freq),16,0.0625,0,0,0,0,1
+U020,List (RockYou freq),16,0.0625,0,0,0,0,1
+U021,List (RockYou freq),1,1.0,1,1,1,1,1
+U022,List (RockYou freq),7,0.1428571428571428,0,0,0,1,1
+U023,List (RockYou freq),17,0.0588235294117647,0,0,0,0,1
+U024,List (RockYou freq),16,0.0625,0,0,0,0,1
+U025,List (RockYou freq),17,0.0588235294117647,0,0,0,0,1
+U026,List (RockYou freq),19,0.0526315789473684,0,0,0,0,1
+U027,List (RockYou freq),19,0.0526315789473684,0,0,0,0,1
+U028,List (RockYou freq),11,0.0909090909090909,0,0,0,0,1
+U029,List (RockYou freq),14,0.0714285714285714,0,0,0,0,1
+U030,List (RockYou freq),5,0.2,0,0,1,1,1
+U031,List (RockYou freq),16,0.0625,0,0,0,0,1
+U032,List (RockYou freq),9,0.1111111111111111,0,0,0,1,1
+U033,List (RockYou freq),3,0.3333333333333333,0,1,1,1,1
+U034,List (RockYou freq),10,0.1,0,0,0,1,1
+U035,List (RockYou freq),5,0.2,0,0,1,1,1
+U036,List (RockYou freq),15,0.0666666666666666,0,0,0,0,1
+U037,List (RockYou freq),17,0.0588235294117647,0,0,0,0,1
+U038,List (RockYou freq),19,0.0526315789473684,0,0,0,0,1
+U039,List (RockYou freq),16,0.0625,0,0,0,0,1
+U040,List (RockYou freq),13,0.0769230769230769,0,0,0,0,1
+U041,List (RockYou freq),16,0.0625,0,0,0,0,1
+U042,List (RockYou freq),2,0.5,0,1,1,1,1
+U043,List (RockYou freq),19,0.0526315789473684,0,0,0,0,1
+U000,Markov backoff (n-gram),5,0.2,0,0,1,1,1
+U001,Markov backoff (n-gram),8,0.125,0,0,0,1,1
+U002,Markov backoff (n-gram),9,0.1111111111111111,0,0,0,1,1
+U003,Markov backoff (n-gram),11,0.0909090909090909,0,0,0,0,1
+U004,Markov backoff (n-gram),7,0.1428571428571428,0,0,0,1,1
+U005,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U006,Markov backoff (n-gram),3,0.3333333333333333,0,1,1,1,1
+U007,Markov backoff (n-gram),14,0.0714285714285714,0,0,0,0,1
+U008,Markov backoff (n-gram),17,0.0588235294117647,0,0,0,0,1
+U009,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U010,Markov backoff (n-gram),6,0.1666666666666666,0,0,0,1,1
+U011,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U012,Markov backoff (n-gram),16,0.0625,0,0,0,0,1
+U013,Markov backoff (n-gram),16,0.0625,0,0,0,0,1
+U014,Markov backoff (n-gram),11,0.0909090909090909,0,0,0,0,1
+U015,Markov backoff (n-gram),15,0.0666666666666666,0,0,0,0,1
+U016,Markov backoff (n-gram),10,0.1,0,0,0,1,1
+U017,Markov backoff (n-gram),5,0.2,0,0,1,1,1
+U018,Markov backoff (n-gram),6,0.1666666666666666,0,0,0,1,1
+U019,Markov backoff (n-gram),1,1.0,1,1,1,1,1
+U020,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U021,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U022,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U023,Markov backoff (n-gram),4,0.25,0,0,1,1,1
+U024,Markov backoff (n-gram),16,0.0625,0,0,0,0,1
+U025,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U026,Markov backoff (n-gram),19,0.0526315789473684,0,0,0,0,1
+U027,Markov backoff (n-gram),1,1.0,1,1,1,1,1
+U028,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U029,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U030,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U031,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U032,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U033,Markov backoff (n-gram),2,0.5,0,1,1,1,1
+U034,Markov backoff (n-gram),17,0.0588235294117647,0,0,0,0,1
+U035,Markov backoff (n-gram),19,0.0526315789473684,0,0,0,0,1
+U036,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U037,Markov backoff (n-gram),10,0.1,0,0,0,1,1
+U038,Markov backoff (n-gram),1,1.0,1,1,1,1,1
+U039,Markov backoff (n-gram),9,0.1111111111111111,0,0,0,1,1
+U040,Markov backoff (n-gram),10,0.1,0,0,0,1,1
+U041,Markov backoff (n-gram),20,0.05,0,0,0,0,1
+U042,Markov backoff (n-gram),2,0.5,0,1,1,1,1
+U043,Markov backoff (n-gram),4,0.25,0,0,1,1,1
+U000,PCFG-lite,2,0.5,0,1,1,1,1
+U001,PCFG-lite,6,0.1666666666666666,0,0,0,1,1
+U002,PCFG-lite,20,0.05,0,0,0,0,1
+U003,PCFG-lite,14,0.0714285714285714,0,0,0,0,1
+U004,PCFG-lite,20,0.05,0,0,0,0,1
+U005,PCFG-lite,1,1.0,1,1,1,1,1
+U006,PCFG-lite,2,0.5,0,1,1,1,1
+U007,PCFG-lite,2,0.5,0,1,1,1,1
+U008,PCFG-lite,1,1.0,1,1,1,1,1
+U009,PCFG-lite,20,0.05,0,0,0,0,1
+U010,PCFG-lite,5,0.2,0,0,1,1,1
+U011,PCFG-lite,20,0.05,0,0,0,0,1
+U012,PCFG-lite,20,0.05,0,0,0,0,1
+U013,PCFG-lite,15,0.0666666666666666,0,0,0,0,1
+U014,PCFG-lite,2,0.5,0,1,1,1,1
+U015,PCFG-lite,20,0.05,0,0,0,0,1
+U016,PCFG-lite,7,0.1428571428571428,0,0,0,1,1
+U017,PCFG-lite,16,0.0625,0,0,0,0,1
+U018,PCFG-lite,5,0.2,0,0,1,1,1
+U019,PCFG-lite,14,0.0714285714285714,0,0,0,0,1
+U020,PCFG-lite,20,0.05,0,0,0,0,1
+U021,PCFG-lite,1,1.0,1,1,1,1,1
+U022,PCFG-lite,18,0.0555555555555555,0,0,0,0,1
+U023,PCFG-lite,2,0.5,0,1,1,1,1
+U024,PCFG-lite,13,0.0769230769230769,0,0,0,0,1
+U025,PCFG-lite,20,0.05,0,0,0,0,1
+U026,PCFG-lite,20,0.05,0,0,0,0,1
+U027,PCFG-lite,19,0.0526315789473684,0,0,0,0,1
+U028,PCFG-lite,20,0.05,0,0,0,0,1
+U029,PCFG-lite,20,0.05,0,0,0,0,1
+U030,PCFG-lite,20,0.05,0,0,0,0,1
+U031,PCFG-lite,20,0.05,0,0,0,0,1
+U032,PCFG-lite,20,0.05,0,0,0,0,1
+U033,PCFG-lite,1,1.0,1,1,1,1,1
+U034,PCFG-lite,10,0.1,0,0,0,1,1
+U035,PCFG-lite,20,0.05,0,0,0,0,1
+U036,PCFG-lite,9,0.1111111111111111,0,0,0,1,1
+U037,PCFG-lite,11,0.0909090909090909,0,0,0,0,1
+U038,PCFG-lite,9,0.1111111111111111,0,0,0,1,1
+U039,PCFG-lite,15,0.0666666666666666,0,0,0,0,1
+U040,PCFG-lite,19,0.0526315789473684,0,0,0,0,1
+U041,PCFG-lite,20,0.05,0,0,0,0,1
+U042,PCFG-lite,2,0.5,0,1,1,1,1
+U043,PCFG-lite,20,0.05,0,0,0,0,1

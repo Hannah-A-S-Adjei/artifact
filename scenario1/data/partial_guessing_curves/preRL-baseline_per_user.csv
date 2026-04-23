@@ -1,0 +1,4 @@
+uid,rank,covered,model
+User1,,0,lm
+User1,,0,ranker
+User1,,0,joint

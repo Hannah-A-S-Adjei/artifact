@@ -1,0 +1,62 @@
+{
+  "users_pii_tag_dictionaries": {
+    "User1": {
+      "3": "digit",
+      "1020": "year",
+      "Nike": "company",
+      "Zara": "company",
+      "McDonalds": "company",
+      "NorthAmerica": "region",
+      "English": "language",
+      "Twi": "language",
+      "Ahodwo": "city",
+      "Ghanaian": "nationality",
+      "Reading": "hobby",
+      "Pop": "music"
+    },
+    "User2": {
+      "2": "digit",
+      "3050": "year",
+      "Toyota": "company",
+      "Zara": "company",
+      "McDonalds": "company",
+      "NorthAfrica": "region",
+      "English": "language",
+      "Yoruba": "language",
+      "Oshawa": "city",
+      "Indian": "nationality",
+      "Gaming": "hobby",
+      "Gospel": "music"
+    },
+    "User3": {
+      "8": "digit",
+      "3050": "year",
+      "Toyota": "company",
+      "Gucci": "company",
+      "Shein": "company",
+      "AsiaSoutheast": "region",
+      "English": "language",
+      "Hindi": "language",
+      "Whitby": "city",
+      "Indian": "nationality",
+      "Traveling": "hobby",
+      "Classical": "music"
+    },
+    "User4": {
+      "6": "digit",
+      "3050": "year",
+      "Toyota": "company",
+      "BMW": "company",
+      "Shein": "company",
+      "H&M": "company",
+      "NorthAmerica": "region",
+      "English": "language",
+      "Arabic": "language",
+      "Hindi": "language",
+      "Toronto": "city",
+      "American": "nationality",
+      "Gaming": "hobby",
+      "Hiplife": "music"
+    }
+  }
+}

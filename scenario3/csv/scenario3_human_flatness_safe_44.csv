@@ -1,0 +1,61 @@
+model,display_model,top_x,flatness
+List (RockYou freq),List,1,0.045454545454545456
+List (RockYou freq),List,2,0.09090909090909091
+List (RockYou freq),List,3,0.13636363636363635
+List (RockYou freq),List,4,0.18181818181818182
+List (RockYou freq),List,5,0.22727272727272727
+List (RockYou freq),List,6,0.2727272727272727
+List (RockYou freq),List,7,0.3181818181818182
+List (RockYou freq),List,8,0.3181818181818182
+List (RockYou freq),List,9,0.38636363636363635
+List (RockYou freq),List,10,0.4090909090909091
+List (RockYou freq),List,11,0.4318181818181818
+List (RockYou freq),List,12,0.45454545454545453
+List (RockYou freq),List,13,0.4772727272727273
+List (RockYou freq),List,14,0.5227272727272727
+List (RockYou freq),List,15,0.5454545454545454
+List (RockYou freq),List,16,0.7272727272727273
+List (RockYou freq),List,17,0.8409090909090909
+List (RockYou freq),List,18,0.8409090909090909
+List (RockYou freq),List,19,0.9545454545454546
+List (RockYou freq),List,20,1.0
+Markov backoff (n-gram),Markov,1,0.06818181818181818
+Markov backoff (n-gram),Markov,2,0.11363636363636363
+Markov backoff (n-gram),Markov,3,0.13636363636363635
+Markov backoff (n-gram),Markov,4,0.18181818181818182
+Markov backoff (n-gram),Markov,5,0.22727272727272727
+Markov backoff (n-gram),Markov,6,0.2727272727272727
+Markov backoff (n-gram),Markov,7,0.29545454545454547
+Markov backoff (n-gram),Markov,8,0.3181818181818182
+Markov backoff (n-gram),Markov,9,0.36363636363636365
+Markov backoff (n-gram),Markov,10,0.4318181818181818
+Markov backoff (n-gram),Markov,11,0.4772727272727273
+Markov backoff (n-gram),Markov,12,0.4772727272727273
+Markov backoff (n-gram),Markov,13,0.4772727272727273
+Markov backoff (n-gram),Markov,14,0.5
+Markov backoff (n-gram),Markov,15,0.5227272727272727
+Markov backoff (n-gram),Markov,16,0.5909090909090909
+Markov backoff (n-gram),Markov,17,0.6363636363636364
+Markov backoff (n-gram),Markov,18,0.6363636363636364
+Markov backoff (n-gram),Markov,19,0.6818181818181818
+Markov backoff (n-gram),Markov,20,1.0
+PCFG-lite,TarGuess-style,1,0.09090909090909091
+PCFG-lite,TarGuess-style,2,0.22727272727272727
+PCFG-lite,TarGuess-style,3,0.22727272727272727
+PCFG-lite,TarGuess-style,4,0.22727272727272727
+PCFG-lite,TarGuess-style,5,0.2727272727272727
+PCFG-lite,TarGuess-style,6,0.29545454545454547
+PCFG-lite,TarGuess-style,7,0.3181818181818182
+PCFG-lite,TarGuess-style,8,0.3181818181818182
+PCFG-lite,TarGuess-style,9,0.36363636363636365
+PCFG-lite,TarGuess-style,10,0.38636363636363635
+PCFG-lite,TarGuess-style,11,0.4090909090909091
+PCFG-lite,TarGuess-style,12,0.4090909090909091
+PCFG-lite,TarGuess-style,13,0.4318181818181818
+PCFG-lite,TarGuess-style,14,0.4772727272727273
+PCFG-lite,TarGuess-style,15,0.5227272727272727
+PCFG-lite,TarGuess-style,16,0.5454545454545454
+PCFG-lite,TarGuess-style,17,0.5454545454545454
+PCFG-lite,TarGuess-style,18,0.5681818181818182
+PCFG-lite,TarGuess-style,19,0.6136363636363636
+PCFG-lite,TarGuess-style,20,1.0
